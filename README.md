@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rao Azlan
-- 👀 I’m interested in Working as a Full-Stack Developer
+- 👀 Working as a Full-Stack Developer
 - 💞️ looking to get internship opportunities and collaboration on Projects.
 - 📫 How to reach me: https://www.linkedin.com/in/raoazlan/
 
